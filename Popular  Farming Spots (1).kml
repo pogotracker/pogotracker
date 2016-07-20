@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Popular  Farming Spots</name>
+		<Placemark>
+			<name>Auditorium Shores</name>
+			<description><![CDATA[Charmander]]></description>
+			<styleUrl>#poly-FF0000-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-97.7546739,30.2645856,0.0 -97.7570799,30.2606704,0.0 -97.7554089,30.2602395,0.0 -97.7542984,30.2600077,0.0 -97.7500444,30.2584463,0.0 -97.7493257,30.2599754,0.0 -97.7491593,30.2605082,0.0 -97.7482393,30.2623847,0.0 -97.7498835,30.2628619,0.0 -97.7516216,30.2636079,0.0 -97.7532202,30.2641222,0.0 -97.7546739,30.2645856,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>The Domain</name>
+			<styleUrl>#poly-EEFF00-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-97.7252655,30.4039975,0.0 -97.7283662,30.4018415,0.0 -97.7280658,30.3983713,0.0 -97.7260058,30.3978623,0.0 -97.7246513,30.4002313,0.0 -97.7232539,30.4035071,0.0 -97.7252655,30.4039975,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>McKinney Falls State Park</name>
+			<description><![CDATA[Dratini]]></description>
+			<styleUrl>#poly-00FF22-1-76</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-97.7219081,30.1868129,0.0 -97.728045,30.1852363,0.0 -97.7311134,30.1816194,0.0 -97.7303839,30.1765184,0.0 -97.7265644,30.1729938,0.0 -97.7222944,30.1747747,0.0 -97.7192045,30.1848654,0.0 -97.7219081,30.1868129,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>UT</name>
+			<styleUrl>#poly-00CCFF-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-97.7416492,30.2877076,0.0 -97.741971,30.283798,0.0 -97.7374327,30.2834552,0.0 -97.7370143,30.2873278,0.0 -97.7416492,30.2877076,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Texas Capitol</name>
+			<styleUrl>#poly-4400FF-1-76-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-97.7418905,30.2775626,0.0 -97.7434301,30.2733653,0.0 -97.7386719,30.2721051,0.0 -97.7370787,30.2762701,0.0 -97.7418905,30.2775626,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-00CCFF-1-76-nodesc-normal'>
+			<LineStyle>
+				<color>ffFFCC00</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CFFCC00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-00CCFF-1-76-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFFCC00</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CFFCC00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-00CCFF-1-76-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-00CCFF-1-76-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-00CCFF-1-76-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-00FF22-1-76-normal'>
+			<LineStyle>
+				<color>ff22FF00</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C22FF00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-00FF22-1-76-highlight'>
+			<LineStyle>
+				<color>ff22FF00</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C22FF00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-00FF22-1-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-00FF22-1-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-00FF22-1-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-4400FF-1-76-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0044</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CFF0044</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-4400FF-1-76-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0044</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CFF0044</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-4400FF-1-76-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4400FF-1-76-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4400FF-1-76-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-EEFF00-1-76-nodesc-normal'>
+			<LineStyle>
+				<color>ff00FFEE</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00FFEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-EEFF00-1-76-nodesc-highlight'>
+			<LineStyle>
+				<color>ff00FFEE</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C00FFEE</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-EEFF00-1-76-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-EEFF00-1-76-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-EEFF00-1-76-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FF0000-1-76-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C0000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-FF0000-1-76-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C0000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-FF0000-1-76'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FF0000-1-76-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FF0000-1-76-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
